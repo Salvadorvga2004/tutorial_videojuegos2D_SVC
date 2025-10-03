@@ -5,15 +5,9 @@ Alumno: Salvador Vega Cervantes
 
 Grupo GIDS5103
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9oYjAjQvY7TIldEY95WkvDe8Emb83C6FTQ&s" width="60%" alt="Descripción de la imagen">
-</p>
-
 ## Contents
 
-- [Folder and file structure](#folder-and-file-structure)
-- [Requirements:](#requirements)
-- [Player Animations 2D Tutorial 01](#player-animations-2d-tutorial-01)
+- [Tutorial 01](#tutorial-01)
 
 ## Folder and file structure
 
@@ -34,19 +28,8 @@ Grupo GIDS5103
 
 ```
 
-## Requerimientos
 
-- SO: Windows 7 (SP1+) / Windows 10 / Windows 11
-
-- Procesador: X64 architecture with SSE2 instruction set support
-
-- Memoria RAM: 4 GB mínimo (8 GB recomendado)
-
-- Tarjeta gráfica: DX10, DX11, DX12-capable
-
-- Almacenamiento: 8 GB de espacio libre
-
-## Player Animations 2D Tutorial 01
+## Tutorial 01
 
 - Crear un nuevo proyecto a través de Unity Hub. Seleccionar el número de versión más actual de acuerdo a las versiones instaladas en tu Unity Hub.
   
