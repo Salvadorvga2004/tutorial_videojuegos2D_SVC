@@ -42,7 +42,7 @@ Grupo: GIDS5103
 Link al tutorial 01:
 https://drive.google.com/file/d/1Xtqze-hnDaWmfpIh6zPEX3n0qavbt_wL/view?usp=sharing
 
-## Desafios
+## Desafíos
 Link al desafío 01:
 
 Link al desafío 02: https://drive.google.com/file/d/18MKrhtprgKhHDTXolO-lKlYj0MK7TFoZ/view?usp=sharing
