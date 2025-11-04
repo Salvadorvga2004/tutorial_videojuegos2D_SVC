@@ -54,6 +54,9 @@ https://drive.google.com/file/d/1I_SxpA5jW8gmJYphZjJMvLVQP9T-YbDL/view?usp=shari
 Link al tutorial 05:
 https://drive.google.com/file/d/14Dx4k25HAXWbW2TH4_erZ8jUll6Z1XK-/view?usp=sharing
 
+Link al tutorial 06:
+https://drive.google.com/file/d/14-5EskntQQ1OjnJo1Gnj_xJVt5STinUV/view?usp=sharing
+
 ## Desafíos
 Link al desafío 01:
 
