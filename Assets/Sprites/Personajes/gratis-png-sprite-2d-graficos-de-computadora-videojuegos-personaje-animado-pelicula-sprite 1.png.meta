@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2ec28ec7dd76cb64a8d8ae8a8590e496
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 283
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf80a7cb6be0349b3218286ed1d426
+      internalID: -1424027748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 283
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e0529fd7660194ebc77f483c119e84
+      internalID: -425561860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 283
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224337214cf7d3408463c496a494881
+      internalID: -745501175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 284
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa235bc25a8bc408849a771a84395d
+      internalID: 313381022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 283
+        width: 100
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e001e656002456e4fad71c4c639437b5
+      internalID: -1342217749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 283
+        width: 67
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d485851c7761246befd250aedfb329
+      internalID: 1497781360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 283
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a10efcfc9137c438f7c3f7895a05e6
+      internalID: -681410109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 284
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1891d0df1a817db489549253b05c5a57
+      internalID: -531220257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 141
+        width: 50
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559472435801bd4497561f0eea71e1d
+      internalID: 571459677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 141
+        width: 45
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebec3954524a4543a63b754610c7fb7
+      internalID: -13946054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 142
+        width: 46
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a28a203c0f8fb48aa5ea538c5c5bd3
+      internalID: -512694655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 141
+        width: 42
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f744da520ec744a2bceec282d8ce6
+      internalID: -800201449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 141
+        width: 42
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044da165a4c2b344bdca03cdfed7d8d
+      internalID: 1906194915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 141
+        width: 46
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e03caaef1c0948a85a991a7a38ae6
+      internalID: -890879052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 141
+        width: 45
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c2d83ec53f687468905ea6df4dc234
+      internalID: -1503641519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 141
+        width: 41
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526c1e8bba731e46b318519683e5fdc
+      internalID: 685405851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 35
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191281b8908164941be779b863a0514e
+      internalID: 1121106503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 36
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa750b838c8b38942a00ca29ac58e199
+      internalID: -1103048182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 44
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f5e67cf054864ca2c0273463c55bf
+      internalID: -1605422617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 43
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81fd1fdab3df3458e2deb9a6d838cf
+      internalID: -1476377940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d3cfbe65d57254297c9264db3e27cf
+      internalID: -535417737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 58
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25481b8b0be3664d87d052e120507a2
+      internalID: -1342194268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_0: -1424027748
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_1: -425561860
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_10: -512694655
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_11: -800201449
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_12: 1906194915
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_13: -890879052
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_14: -1503641519
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_15: 685405851
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_16: 1121106503
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_17: -1103048182
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_18: -1605422617
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_19: -1476377940
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_2: -745501175
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_20: -535417737
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_21: -1342194268
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_3: 313381022
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_4: -1342217749
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_5: 1497781360
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_6: -681410109
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_7: -531220257
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_8: 571459677
+      gratis-png-sprite-2d-graficos-de-computadora-videojuegos-personaje-animado-pelicula-sprite_9: -13946054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
